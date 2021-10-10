@@ -1,0 +1,38 @@
+
+.header{ 
+    color: rgb(13, 13, 63);
+}
+
+.paragraph{
+    color: rgb(170, 184, 211);
+}
+
+.speakercardwrapper{
+    padding: 100px;
+}
+
+.speakercard{
+    padding: 60px;
+}
+
+.speakercard > *{
+margin-bottom: 30px;
+}
+
+.img-thumbnail{
+    border-radius: 10px;
+}
+
+.jumbotron2 {
+    background-color: white;
+}
+
+.map {
+    height: 300px;
+}
+
+.image {
+    height: 300px;
+    width: 400px;
+    padding-left: 25px;
+}
